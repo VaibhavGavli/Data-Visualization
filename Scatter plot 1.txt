@@ -1,0 +1,9 @@
+P-value:	< 0.0001
+Equation:	Actual Profit = 0.536582*Actual Sales + -42.456
+
+Coefficients
+Term	Value	StdErr	t-value	p-value
+Actual Sales	0.536582	0.0062333	86.0837	< 0.0001
+intercept	-42.456	1.52785	-27.7881	< 0.0001
+R square is 0.63.e. % variation in profit due to variation in sales .
+Rest  37% variation is due to unknown factors.
